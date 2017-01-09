@@ -1,1 +1,6 @@
 *~
+_config_dev.yml
+.sass-cache
+_drafts
+.jsbeautifyrc
+_site
