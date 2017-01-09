@@ -90,25 +90,22 @@ dd {
 }
 
 ul {
-  list-style: inside circle;
-  padding-left: 0;
+  list-style: circle;
 
   li {
-    margin-bottom: .25rem;
+    margin: 0rem;
+    margin-bottom: 0rem;
   }
 
   ul,
   ol {
-    list-style: inside;
-    margin-left: 2rem;
     margin-top: .25rem;
     margin-bottom: .5rem;
   }
 }
 
 ol {
-  list-style: inside decimal;
-  padding-left: 0;
+  list-style: decimal;
 
   li {
     margin-bottom: .25rem;
@@ -116,7 +113,7 @@ ol {
 
   ul,
   ol {
-    margin-left: 2rem;
+    //margin-left: 2rem;
     margin-top: .25rem;
     margin-bottom: .5rem;
   }
