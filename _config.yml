@@ -44,7 +44,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "/about"
+    url:            "http://jonathanpchen.com"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
