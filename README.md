@@ -10,6 +10,12 @@ $ rake draft title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
 ```
 which will create a post in `_posts/`.  Or cp an existing post.
 
+## Install
+```
+bundle install
+```
+Install [jekyll](https://jekyllrb.com/docs/installation/macos/).
+
 ## Build
 https://github.com/aweekj/Kiko-plus
 
