@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'jekyll', '~> 3.9'
 gem 'jekyll-seo-tag'
 gem 'jekyll-paginate'
-gem 'github-pages'
+gem 'kramdown-parser-gfm'
