@@ -15,16 +15,12 @@ author:
   medium:           jonathanpchen 
   email:            me@jonathanpchen.com
 
-# Google-analytics
-google-analytics:
-  id:               "UA-83619240-1"
-
 # Disqus
 disqus:
   id:               "http-jonathanpchen-com"
 
 # URL
-url:                "http://blog.jonathanpchen.com" # the base hostname & protocol for your site
+url:                "https://blog.jonathanpchen.com" # the base hostname & protocol for your site
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
@@ -44,7 +40,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "http://jonathanpchen.com"
+    url:            "https://jonathanpchen.com"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
